@@ -1,0 +1,24 @@
+err_0 Please enter correct code
+
+***** Super Admin AUTH API *****
+Error
+err_1 Invalid email address
+err_2 Password must be at least 8 characters in length
+err_3 User does not belong to any account
+err_4 Invalid email or password
+err_5 This email is already registered
+
+Success
+
+***** Section API *****
+Error
+err_6 Please enter section type
+err_7 Section type already exists
+err_8 Please enter section id
+err_9 Section data not found
+
+Success
+succ_1 Section created successfully
+succ_2 Section data fetched successfully
+succ_3 Section data updated successfully
+succ_4 Section data deleted successfully
